@@ -1,0 +1,47 @@
+{
+    "title": {
+      "name": "collections"
+    },
+    "collections": [
+      {
+        "title": "Galexy Watch",
+        "image": "collection-1.webp",
+        "price": "489.00",
+        "link": "#",
+        "wishlistLink": "#",
+        "compareLink": "#",
+        "quickViewLink": "#",
+        "cartLink": "#"
+      },
+      {
+        "title": "Omega Seamaster",
+        "image": "collection-2.webp",
+        "price": "999.00",
+        "link": "#",
+        "wishlistLink": "#",
+        "compareLink": "#",
+        "quickViewLink": "#",
+        "cartLink": "#"
+      },
+      {
+        "title": "seiko alhambra",
+        "image": "collection-4.webp",
+        "price": "399.00",
+        "link": "#",
+        "wishlistLink": "#",
+        "compareLink": "#",
+        "quickViewLink": "#",
+        "cartLink": "#"
+      },
+      {
+        "title": "seiko alhambra",
+        "image": "collection-3.webp",
+        "price": "499.00",
+        "link": "#",
+        "wishlistLink": "#",
+        "compareLink": "#",
+        "quickViewLink": "#",
+        "cartLink": "#"
+      }
+    ]
+}

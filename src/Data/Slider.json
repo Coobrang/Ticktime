@@ -1,0 +1,28 @@
+{
+    "slides": [
+      {
+        "image": "slider1",
+        "announcement": "Sale! Up To 50% Off!",
+        "heading": "Discover Smart <br> Watches",
+        "description": "Check out our latest collection of chic and trendy outfits that will keep you <br> looking stylish all year round",
+        "buttonText": "Shop Now",
+        "buttonLink": "#"
+      },
+      {
+        "image": "slider2",
+        "announcement": "Sale! Up To 50% Off!",
+        "heading": "Explore the Finest <br> Watches",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus earum minima <br> dolores nihil voluptatem quia.",
+        "buttonText": "Shop Now",
+        "buttonLink": "#"
+      },
+      {
+        "image": "slider4",
+        "announcement": "Sale! Up To 50% Off!",
+        "heading": "Explore the Time",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "buttonText": "Shop Now",
+        "buttonLink": "#"
+      }
+    ]
+}

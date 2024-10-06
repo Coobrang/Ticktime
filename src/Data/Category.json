@@ -1,0 +1,35 @@
+{
+    "categories": [
+      {
+        "title": "Smart Watch",
+        "count": 2,
+        "image": "category-watch1.webp",
+        "link": "#"
+      },
+      {
+        "title": "Classic Watch",
+        "count": 4,
+        "image": "category-watch2.webp",
+        "link": "#"
+      },
+      {
+        "title": "Apple Watch",
+        "count": 6,
+        "image": "category-watch3.webp",
+        "link": "#"
+      },
+      {
+        "title": "Smart Band",
+        "count": 3,
+        "image": "category-watch4.webp",
+        "link": "#"
+      },
+      {
+        "title": "Sport Watch",
+        "count": 5,
+        "image": "category-watch5.webp",
+        "link": "#"
+      }
+    ]
+  }
+  

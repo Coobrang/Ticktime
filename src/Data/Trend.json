@@ -1,0 +1,47 @@
+{
+  "title": {
+    "name": "Trending Products"
+  },
+  "trends": [
+    {
+      "title": "Xiaomi Watch 5",
+      "image": "trend1.webp",
+      "price": "175.00",
+      "link": "#",
+      "wishlistLink": "#",
+      "compareLink": "#",
+      "quickViewLink": "#",
+      "cartLink": "#"
+    },
+    {
+      "title": "Apple Watch",
+      "image": "trend2.webp",
+      "price": "299.00",
+      "link": "#",
+      "wishlistLink": "#",
+      "compareLink": "#",
+      "quickViewLink": "#",
+      "cartLink": "#"
+    },
+    {
+      "title": "Huawei Band 9",
+      "image": "trend3.webp",
+      "price": "99.00",
+      "link": "#",
+      "wishlistLink": "#",
+      "compareLink": "#",
+      "quickViewLink": "#",
+      "cartLink": "#"
+    },
+    {
+      "title": "Omega Seamaster",
+      "image": "trend4.webp",
+      "price": "259.00",
+      "link": "#",
+      "wishlistLink": "#",
+      "compareLink": "#",
+      "quickViewLink": "#",
+      "cartLink": "#"
+    }
+  ]
+}

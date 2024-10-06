@@ -1,0 +1,29 @@
+{
+    "boxes": [
+        {
+            "image": "insta1.webp",
+            "iconClass": "fa-brands fa-instagram",
+            "link": "#"
+        },
+        {
+            "image": "insta2.webp",
+            "iconClass": "fa-brands fa-instagram",
+            "link": "#"
+        },
+        {
+            "image": "insta3.webp",
+            "iconClass": "fa-brands fa-instagram",
+            "link": "#"
+        },
+        {
+            "image": "insta4.webp",
+            "iconClass": "fa-brands fa-instagram",
+            "link": "#"
+        },
+        {
+            "image": "insta5.webp",
+            "iconClass": "fa-brands fa-instagram",
+            "link": "#"
+        }
+    ]
+}

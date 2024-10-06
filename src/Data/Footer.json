@@ -1,0 +1,38 @@
+{
+    "contactInfo": {
+      "logo": "logo.png",
+      "email": "info@TickTok.com",
+      "phone": "1-333-345-6677",
+      "address": "549 Oak St. Crystal Lake, IL 60014"
+    },
+    "informationLinks": [
+      { "text": "Contact us", "url": "#" },
+      { "text": "Career", "url": "#" },
+      { "text": "My Account", "url": "#" },
+      { "text": "Order & Returns", "url": "#" },
+      { "text": "FAQs", "url": "#" }
+    ],
+    "quickShopLinks": [
+      { "text": "Women", "url": "#" },
+      { "text": "Men", "url": "#" },
+      { "text": "Clothes", "url": "#" },
+      { "text": "Accessorise", "url": "#" },
+      { "text": "Blog", "url": "#" }
+    ],
+    "customerServiceLinks": [
+      { "text": "Orders FAQs", "url": "#" },
+      { "text": "Shipping", "url": "#" },
+      { "text": "Privacy Policy", "url": "#" },
+      { "text": "Return & Refund", "url": "#" }
+    ],
+    "newsletterText": {
+      "description": "Sign up for our newsletter and get 10% off your first purchase."
+    },
+    "socialLinks": [
+      { "icon": "fa-facebook-f", "url": "#" },
+      { "icon": "fa-x-twitter", "url": "#" },
+      { "icon": "fa-pinterest", "url": "#" },
+      { "icon": "fa-instagram", "url": "#" },
+      { "icon": "fa-youtube", "url": "#" }
+    ]
+}

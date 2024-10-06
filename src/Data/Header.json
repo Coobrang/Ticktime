@@ -1,0 +1,44 @@
+{
+    "search": {
+      "placeholder": "What are you looking for?",
+      "iconClass": "fa-solid fa-magnifying-glass"
+    },
+    "menuItems": [
+      {
+        "title": "Features",
+        "link": "#"
+      },
+      {
+        "title": "Beauty",
+        "link": "#"
+      },
+      {
+        "title": "Shop",
+        "link": "#"
+      },
+      {
+        "title": "Products",
+        "link": "#",
+        "dropdown": [
+          { "title": "Smart Watch", "link": "#" },
+          { "title": "Classic Watch", "link": "#" },
+          { "title": "Apple Watch", "link": "#" },
+          { "title": "Smart Band", "link": "#" },
+          { "title": "Sport Watch", "link": "#" }
+        ]
+      },
+      {
+        "title": "Blog",
+        "link": "#"
+      },
+      {
+        "title": "Contact",
+        "link": "#"
+      }
+    ],
+    "icons": [
+      { "iconClass": "fa-regular fa-user", "link": "#" },
+      { "iconClass": "fa-regular fa-heart", "link": "#" },
+      { "iconClass": "fa-solid fa-bag-shopping", "link": "#" }
+    ]
+}

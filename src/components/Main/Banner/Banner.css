@@ -1,0 +1,97 @@
+.banner
+{
+    padding: 3rem 0%;
+}
+
+.banner .row-wrapper
+{
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.banner .row-wrapper .box
+{
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.banner .row-wrapper .box:hover
+{
+    box-shadow: 0px 0px 20px #6e6e6e;
+}
+
+.banner .row-wrapper .box .content h2
+{
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 40px;
+    margin-bottom: 1rem;
+}
+
+.banner .row-wrapper .box .content p
+{
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+.banner .row-wrapper .box .content a
+{
+    padding: 10px 30px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--color-white);
+    border: 1px solid var(--color-white);
+    border-radius: 30px;
+}
+
+.banner .row-wrapper .box .content a:hover
+{
+    background-color: var(--color-green);
+    color: var(--color-black);
+}
+
+@media screen and (max-width: 1440px)
+{
+    .banner
+    {
+        padding: 3rem 4%;
+    }
+    .banner .row-wrapper
+    {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1024px)
+{
+    .banner .row-wrapper .box .content h2
+    {
+        font-size: 1.5rem;
+        line-height: 35px;
+    }
+    .banner .row-wrapper .box .content p
+    {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 768px)
+{
+    .banner .row-wrapper
+    {
+        flex-direction: column;
+    }
+    .banner .row-wrapper .box
+    {
+        width: 100%;
+        height: 400px;
+        background-position: center;
+    }
+}

@@ -1,0 +1,72 @@
+.benefit
+{
+    padding: 3rem 0%;
+}
+
+.benefit .row-wrapper
+{
+    width: 1440px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+    gap: 20px;
+}
+
+.benefit .row-wrapper .box
+{
+    padding: 20px;
+    position: relative;
+    text-align: center;
+}
+
+.benefit .row-wrapper .box:not(:last-child)::after
+{
+    position: absolute;
+    display: inline-block;
+    content: "";
+    top: 0px;
+    right: 0px;
+    width: 1px;
+    height: 100%;
+    background-color: var(--color-gray);
+}
+
+.benefit .row-wrapper .box .icon
+{
+    margin-bottom: 0.5rem;
+}
+
+.benefit .row-wrapper .box .content h4
+{
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.benefit .row-wrapper .box .content p
+{
+    font-size: 0.9rem;
+    font-weight: 300;
+    color: #b5b5b5;
+}
+
+/* Responsive */
+@media screen and (max-width: 1440px)
+{
+    .benefit
+    {
+        padding: 3rem 4%;
+    }
+    .benefit .row-wrapper
+    {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1024px)
+{
+    .benefit .row-wrapper .box::after
+    {
+        display: none !important;
+    }
+}

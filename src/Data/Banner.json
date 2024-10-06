@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "COUPONS ADDED: WRESTLING WATCHES",
+      "description": "Limited Quantities Available Up to 50% Off",
+      "link": "#",
+      "background": "banner1.webp"
+    },
+    {
+      "id": 2,
+      "title": "NEW COLLECTION: SMART WATCHES",
+      "description": "Shop the latest designs with up to 40% off",
+      "link": "#",
+      "background": "banner2.webp"
+    },
+    {
+      "id": 3,
+      "title": "EXCLUSIVE OFFER: LUXURY WATCHES",
+      "description": "Premium watches at discounted prices",
+      "link": "#",
+      "background": "banner3.webp"
+    }
+]
